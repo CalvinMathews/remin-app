@@ -106,10 +106,7 @@ export default function Home() {
                 <div className="mx-auto mb-4 h-12 w-12 rounded-2xl bg-gradient-to-br from-indigo-500 to-sky-500 text-white grid place-items-center shadow">
                   <AssistantIcon />
                 </div>
-                <p className="text-lg font-medium">hey, i’m your memory & to-do buddy</p>
-                <p className="text-gray-400 mt-1">
-                  try: “remember my passport is in the top drawer” or “add buy milk”
-                </p>
+                <p className="text-lg font-medium">hey, i’m Re:Mind your memory & to-do buddy</p>
               </div>
             )}
 
